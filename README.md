@@ -53,14 +53,14 @@ MoneyWise is a comprehensive product management case study demonstrating the com
 
 **📱 Product Demo & Wireframes**
 🖥️ Working Prototype
-Live Demo: [https://olive-coin-flow.lovable.app/](MoneyWiseApp)
+Live Demo: (https://olive-coin-flow.lovable.app/)[MoneyWiseApp]
 
 - Fully functional signup/signin
 - Responsive design (mobile-first)
 - Core user flows implemented
 
 📐 Interactive Wireframes
-Visily Wireframes: [https://app.visily.ai/projects/e4ca3fed-9bc1-4464-ae29-dd77adbe2c69/boards/2116077](Visily)
+Visily Wireframes: (https://app.visily.ai/projects/e4ca3fed-9bc1-4464-ae29-dd77adbe2c69/boards/2116077)[Visily]
 
 - Complete user journey mapping
 - 15+ screen designs
