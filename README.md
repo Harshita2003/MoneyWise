@@ -6,32 +6,35 @@ MoneyWise is a comprehensive product management case study demonstrating the com
 
 **🛠️ Tools & Methodology Used**
 🖥️ Prototype Development: Lovable Platform (Prompt-based no-code)
+
 📐 Wireframing: Visily (Interactive wireframes)
+
 📊 Case Study: Canva (Presentation design)
+
 📈 Research: Primary data collection from 500+ students
 
 **🎯 Problem Statement**
-85% of college students lack consistent financial tracking tools, leading to:
-42% running out of allowance before month-end
-45% overspending due to peer pressure
-65% never using any finance management tool
-Only 10% feeling confident about money management
+- 85% of college students lack consistent financial tracking tools, leading to:
+- 42% running out of allowance before month-end
+- 45% overspending due to peer pressure
+- 65% never using any finance management tool
+- Only 10% feeling confident about money management
 
 **👥 Target Personas (Research-Based)**
 🎉 The Peer-Pressured Spender
-Demographics: 19yo, Tier-1 college, hostel resident
-Key Insight: Overspends ₹3,000+ monthly on social events
-Jobs-to-be-Done: Control social spending, get alerts before overspending
+- Demographics: 19yo, Tier-1 college, hostel resident
+- Key Insight: Overspends ₹3,000+ monthly on social events
+- Jobs-to-be-Done: Control social spending, get alerts before overspending
 
 💼 The Irregular Earner
-Demographics: 21yo, Tier-2 college, part-time worker
-Key Insight: Income varies ₹2K-8K monthly from gigs
-Jobs-to-be-Done: Merge multiple income sources, flexible budgeting
+- Demographics: 21yo, Tier-2 college, part-time worker
+- Key Insight: Income varies ₹2K-8K monthly from gigs
+- Jobs-to-be-Done: Merge multiple income sources, flexible budgeting
 
 📚 The Finance Newbie
-Demographics: 18yo, Tier-3 college, first-year student
-Key Insight: Zero financial literacy, wastes ₹1,500+ monthly
-Jobs-to-be-Done: Learn basic finance, automated tracking, simple saving
+- Demographics: 18yo, Tier-3 college, first-year student
+- Key Insight: Zero financial literacy, wastes ₹1,500+ monthly
+- Jobs-to-be-Done: Learn basic finance, automated tracking, simple saving
 
 **🚀 Product Strategy & Feature Prioritization**
 
