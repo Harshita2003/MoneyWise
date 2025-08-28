@@ -54,90 +54,92 @@ MoneyWise is a comprehensive product management case study demonstrating the com
 **📱 Product Demo & Wireframes**
 🖥️ Working Prototype
 Live Demo: [https://olive-coin-flow.lovable.app/](MoneyWiseApp)
-Fully functional signup/signin
-Responsive design (mobile-first)
-Core user flows implemented
+
+- Fully functional signup/signin
+- Responsive design (mobile-first)
+- Core user flows implemented
 
 📐 Interactive Wireframes
 Visily Wireframes: [https://app.visily.ai/projects/e4ca3fed-9bc1-4464-ae29-dd77adbe2c69/boards/2116077](Visily)
-Complete user journey mapping
-15+ screen designs
-Mobile and desktop layouts
+
+- Complete user journey mapping
+- 15+ screen designs
+- Mobile and desktop layouts
 
 📊 Complete Case Study
-Market research finding
-Persona development
-Go-to-market strategy
+- Market research finding
+- Persona development
+- Go-to-market strategy
 
 **🛠️ Product Development Process**
 
 🎯 Product Management Framework Used
-Market Research → Primary surveys, user interviews
-Persona Development → Data-driven user archetypes
-Problem Prioritization → Impact vs Effort matrix
-Feature Roadmap → AARRR prioritization
-Rapid Prototyping → No-code development
-User Testing → Wireframe validation
+- Market Research → Primary surveys, user interviews
+- Persona Development → Data-driven user archetypes
+- Problem Prioritization → Impact vs Effort matrix
+- Feature Roadmap → AARRR prioritization
+- Rapid Prototyping → No-code development
+- User Testing → Wireframe validation
 
 **💡 No-Code Development Approach**
-Why No-Code for Product Management?
 
+Why No-Code for Product Management?
 ⚡ Speed: Prototype in days, not months
 💰 Cost-Effective: No development resources needed
 🔄 Iteration: Rapid testing and feedback
 📱 Validation: Test real user interactions
 
 **🛠️ Tools & Platforms Used**
-Phase	Tool	Purpose	Output
-Research	Google Forms, Surveys	Data collection	User insights
-Design	Visily	Wireframing	Interactive prototypes
-Development	Lovable Platform	Prototype building	Working app
-Presentation	Canva	Case study design	Professional slides
+- Phase	Tool	Purpose	Output
+- Research	Google Forms, Surveys	Data collection	User insights
+- Design	Visily	Wireframing	Interactive prototypes
+- Development	Lovable Platform	Prototype building	Working app
+- Presentation	Canva	Case study design	Professional slides
 
 **🎨 Design Philosophy**
 
-Mobile-First: 80% of student interactions on mobile
-Gamification: Make finance management fun
-Social Elements: Leverage peer influence positively
-Simplicity: Zero learning curve for finance newbies
+- Mobile-First: 80% of student interactions on mobile
+- Gamification: Make finance management fun
+- Social Elements: Leverage peer influence positively
+- Simplicity: Zero learning curve for finance newbies
 
-🚀 Future Roadmap & Scaling
+**🚀 Future Roadmap & Scaling**
+
 🔮 Product Roadmap (Next 12 Months)
-Quarter 1: Core MVP features + Mobile app
-Quarter 2: AI spending insights + Bank integrations
-Quarter 3: Credit building features + Campus partnerships
-Quarter 4: Premium tiers + Revenue optimization
+- Quarter 1: Core MVP features + Mobile app
+- Quarter 2: AI spending insights + Bank integrations
+- Quarter 3: Credit building features + Campus partnerships
+- Quarter 4: Premium tiers + Revenue optimization
 
 🌱 Scaling Strategy
-
-Geographic: Expand to Tier-2/3 cities
-Demographic: High school seniors, young professionals
-Feature: Add investment guidance, loan management
-Partnerships: Banks, EdTech companies, Colleges
+- Geographic: Expand to Tier-2/3 cities
+- Demographic: High school seniors, young professionals
+- Feature: Add investment guidance, loan management
+- Partnerships: Banks, EdTech companies, Colleges
 
 **📚 Key Learnings & Insights**
 
 💡 Product Management Insights
-Data-Driven Decisions: 500+ surveys validated every major feature
-No-Code Advantage: Validated product-market fit without engineering resources
-User-Centric Design: Student-specific pain points drove feature prioritization
-Iterative Approach: Wireframes → Prototype → Testing → Refinement
+1.Data-Driven Decisions: 500+ surveys validated every major feature
+2.No-Code Advantage: Validated product-market fit without engineering resources
+3.User-Centric Design: Student-specific pain points drove feature prioritization
+4.Iterative Approach: Wireframes → Prototype → Testing → Refinement
 
 🎯 Market Insights
-Untapped Market: 65% students use no finance tools (huge opportunity)
-Behavioral Triggers: Peer influence is stronger motivator than personal goals
-Feature Hierarchy: Tracking > Splitting > Saving > Learning
-Adoption Path: Social features drive initial engagement, utility drives retention
+1.Untapped Market: 65% students use no finance tools (huge opportunity)
+2.Behavioral Triggers: Peer influence is stronger motivator than personal goals
+3.Feature Hierarchy: Tracking > Splitting > Saving > Learning
+4.Adoption Path: Social features drive initial engagement, utility drives retention
 
 **👨💼 About This Product Management Project**
 
 🎯 Project Scope
-This comprehensive product management case study demonstrates:
-Market Research skills with primary data collection
-Product Strategy development and feature prioritization
-No-Code Product Development using modern platforms
-Go-to-Market Planning with realistic timelines and metrics
-Design Thinking applied to real user problems
+1.This comprehensive product management case study demonstrates:
+2.Market Research skills with primary data collection
+3.Product Strategy development and feature prioritization
+4.No-Code Product Development using modern platforms
+5.Go-to-Market Planning with realistic timelines and metrics
+6.Design Thinking applied to real user problems
 
 🏆 Achievement Highlights
 ✅ 500+ User Surveys conducted for market validation
@@ -156,7 +158,6 @@ Design Thinking applied to real user problems
 
 📈 Market Research: Survey data and analysis included
 
-<div align="center">
 🌟 This project showcases modern product management with no-code tools
 "From Market Research to Working Prototype - All Without Writing Code"
 
