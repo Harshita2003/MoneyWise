@@ -150,9 +150,9 @@ Why No-Code for Product Management?
 
 
 📁 Project Assets
-🖥️ Live Prototype: [https://olive-coin-flow.lovable.app/](MoneyWiseApp)
+🖥️ Live Prototype: [MoneyWiseApp](https://olive-coin-flow.lovable.app/)
 
-📐 Wireframes:[https://app.visily.ai/projects/e4ca3fed-9bc1-4464-ae29-dd77adbe2c69/boards/2116077](VisilyDesigns)
+📐 Wireframes:[VisilyDesigns](https://app.visily.ai/projects/e4ca3fed-9bc1-4464-ae29-dd77adbe2c69/boards/2116077)
 
 📊 Case Study: PDF Document
 
